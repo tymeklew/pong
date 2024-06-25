@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eg9hL9YL8GzTwr8J/eIWv4y9ExHvpaC1Ho2f4EVM+Grpe6NhoK86CsNEX7wJS5koLklNtj5zNSDiQO07SavNZQ==",
+  "success": true,
+  "projectFilePath": "/Users/tymek/projects/pong_real/pong.csproj",
+  "expectedPackageFiles": [
+    "/Users/tymek/.nuget/packages/raylib-cs/6.0.0/raylib-cs.6.0.0.nupkg.sha512",
+    "/Users/tymek/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
